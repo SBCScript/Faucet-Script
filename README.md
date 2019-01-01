@@ -1,8 +1,11 @@
 # Faucet-Script
 Create a faucet site with the help of this free Script.This script supported every crypto currency of faucethub.io and All transition occur in faucethub account.
 
-Update (19 Dec 2019):->
+Update (19 Dec 2018):->
 Now Faucet supported with 4 captcha services and faucet owner can enable or disable Forse on shortlink verification.
+
+Update (1 Jan 2019):->
+If your site does not load on 'https://' ,Delete files s_l.php ,s_l1.php ,s_l2.php and s_l3.php from public folder( after extracting SBCScript.zip file) and upload shortlink folder's(after extracting shortlink.zip file)  files.
 
 Support:->
  For any problem support related to script installation can be ask at https://script4download.blogspot.com on relative post of this script.
