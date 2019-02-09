@@ -7,6 +7,9 @@ Now Faucet supported with 4 captcha services and faucet owner can enable or disa
 Update (1 Jan 2019):->
 If your site does not load on 'https://' ,Delete files s_l.php ,s_l1.php ,s_l2.php and s_l3.php from public folder( after extracting SBCScript.zip file) and upload shortlink folder's(after extracting shortlink.zip file)  files.
 
+Update (9 Feb 2019):->
+Now script work all server (http and https).No need to follow previous update.
+
 Support:->
  For any problem support related to script installation can be ask at https://script4download.blogspot.com/2018/12/new-faucet-script-sbcscript.html on relative post of this script.
  
