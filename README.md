@@ -10,6 +10,9 @@ If your site does not load on 'https://' ,Delete files s_l.php ,s_l1.php ,s_l2.p
 Update (9 Feb 2019):->
 Now script work all server (http and https).No need to follow previous update.
 
+Update (29 April 2020);->
+We have upgrade to version 2.0 with new features.Download the latest upload and visit my blog for more information.
+
 Support:->
  For any problem support related to script installation can be ask at https://script4download.blogspot.com/2018/12/new-faucet-script-sbcscript.html on relative post of this script.
  
