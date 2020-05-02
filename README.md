@@ -15,6 +15,8 @@ We have upgrade to version 2.0 with new features.Download the latest upload and 
 
 Support:->
  For any problem support related to script installation can be ask at https://script4download.blogspot.com/2018/12/new-faucet-script-sbcscript.html on relative post of this script.
+
+ For Step by step instructions and setting guide visit my blog post at  https://cryptocrenc.blogspot.com/2020/04/step-by-step-installation-setting-guide.html
  
  Help:->
  Hey if you think the script is useful and want to help script Author ,Welcome at BTC => 1CSmVA8UruFuEURMkAydH5116coL67AzK8
